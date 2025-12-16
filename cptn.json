@@ -1,0 +1,12 @@
+{
+  "name": "Cryptition",
+  "symbol": "CPTN",
+  "description": "Cryptition Token - Play fair, Win real! The next generation gaming platform, for real prices.",
+  "image": "https://raw.githubusercontent.com/cryptition-io/public-data/refs/heads/main/Logo.png",
+  "external_url": "https://cryptition.io",
+  "extensions": {
+    "website": "https://cryptition.io",
+    "twitter": "https://x.com/cryptition_io",
+    "telegram": "https://t.me/cryptition_io"
+  }
+}
